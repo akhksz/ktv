@@ -1,0 +1,695 @@
+﻿#EXTM3U8
+#EXTINF:-1 group-title="国际频道",CNN International Europe (720p)
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际频道",CNN International
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际频道",CNN USA
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
+#EXTINF:-1 group-title="国际频道",FOX News
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际频道",BBC News (720p)
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="国际频道",BBC News (540p)
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="国际频道",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 group-title="国际频道",ABC 8 Dallas TX (WFAA) (1080p)
+https://livevideo.tegnadigital.com/wfaa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WFAA/elvs/live.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="国际频道",France 24 (720p)
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="国际频道",ABC News (AU)
+https://ythls.armelin.one/channel/UCVgO39Bk5sMo66-6o6Spn6Q.m3u8
+#EXTINF:-1 group-title="国际频道",India Today
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+#EXTINF:-1 group-title="国际频道",NDTV 24x7
+https://ythls.armelin.one/channel/UCZFMm1mMw0F81Z37aaEzTUA.m3u8
+#EXTINF:-1 group-title="国际频道",TRT World
+https://ythls.armelin.one/channel/UC7fWeaHhqgM4Ry-RMpM2YYw.m3u8
+#EXTINF:-1 group-title="国际频道",NHK World Japan
+https://ythls.armelin.one/channel/UCSPEjw8F2nQDtmUKPFNF7_A.m3u8
+#EXTINF:-1 group-title="国际频道",WION
+https://ythls.armelin.one/channel/UC_gUM8rL-Lrg6O3adPW9K1g.m3u8
+#EXTINF:-1 group-title="国际频道",CBC News Network
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
+#EXTINF:-1 group-title="国际频道",ABC News Live
+https://lnc-abc-news.tubi.video/index.m3u8
+#EXTINF:-1 group-title="国际频道",CBS News
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1 group-title="国际频道",Africanews
+https://ythls.armelin.one/channel/UC1_E8NeF5QHY2dtdLRBCCLA.m3u8
+#EXTINF:-1 group-title="国际频道",France 24
+https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
+#EXTINF:-1 group-title="国际频道",DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 group-title="国际频道",Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 group-title="国际频道",CGTN
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 group-title="国际频道",NBC News NOW
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
+#EXTINF:-1 group-title="国际频道",The Guardian
+https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际频道",CBS News
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1 group-title="国际频道",ABC News Live
+https://lnc-abc-news.tubi.video/index.m3u8
+#EXTINF:-1 group-title="国际频道",Russia Today Ⓖ
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 group-title="国际频道",Sky News Now (AU)
+https://i.mjh.nz/sky-news-now.m3u8
+#EXTINF:-1 group-title="国际频道",Channels 24
+https://ythls.armelin.one/channel/UCEXGDNclvmg6RW0vipJYsTQ.m3u8
+#EXTINF:-1 group-title="国际频道",Sky News Now (AU)
+https://i.mjh.nz/sky-news-now.m3u8
+#EXTINF:-1 group-title="国际频道",NBC News NOW
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
+#EXTINF:-1 group-title="国际频道",India Today
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+#EXTINF:-1 group-title="国际频道",ABC News
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 group-title="国际频道",HBO HD
+https://z02.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
+#EXTINF:-1 group-title="国际频道",HOB ASIA
+https://z02.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
+#EXTINF:-1 group-title="国际频道",HBO FAMILY
+https://bsex.serv00.net/Smart.php?id=fyi_twn
+#EXTINF:-1 group-title="国际频道",HBOSignature 1
+https://z02.ubtvfans.com/live/rx1/329/4f7c91a6de5f2142dc69dcfb3f377d09/index.m3u8
+#EXTINF:-1 group-title="国际频道",HBOSignature 2
+https://z02.ubtvfans.com/live/rx3/2824/7c499709e04993dcdb601df47291e152/index.m3u8
+#EXTINF:-1 group-title="国际频道",HBO Comedy UHD
+https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8
+#EXTINF:-1 group-title="国际频道",HBO 2 DIRECTV
+https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
+#EXTINF:-1 group-title="国际频道",Goodlife 45
+http://1-fss29-s0.streamhoster.com/lv_goodlife45f1/broadcast1/playlist.m3u8
+#EXTINF:-1 group-title="国际频道",AXN HD
+https://z02.ubtvfans.com/live/rx3/1044/40b9b1e709c0b85254f3fd3198f55b30/index.m3u8
+#EXTINF:-1 group-title="国际频道",AXN TW
+https://bsex.serv00.net/Smart.php?id=axn_twn
+#EXTINF:-1 group-title="国际频道",AXN Asia
+https://z02.ubtvfans.com/live/rx1/1066/917914fbe52d479116c9ab03e3045dca/index.m3u8
+#EXTINF:-1 group-title="国际频道",Sony Movie Channel (720p)
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
+#EXTINF:-1 group-title="国际频道",CINEMA
+https://bsex.serv00.net/Smart.php?id=cinemax_twn
+#EXTINF:-1 group-title="国际频道",Hollywood HD
+http://myott.top/stream/DT6QU63K5VX/268.m3u8
+#EXTINF:-1 group-title="国际频道",Hollywood Movie
+https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际频道",AXS TV
+https://stream.freetv.fun/81ec9764658d2129309abc59a41c69de1b6b50e66ca984d1c04e8bed7f5b448e.m3u8
+#EXTINF:-1 group-title="国际频道",Global Trekker
+https://stream.freetv.fun/0d3c802f93af5d787c8857fe87814eaf3ae85a51294b5f08fc219c273e298c7e.ctv
+#EXTINF:-1 group-title="国际频道",ROCK Entertainment
+https://stream.freetv.fun/890563baba3628a4096548c973405f5b31de969d8bbe666d6e196540348941dd.ctv
+#EXTINF:-1 group-title="国际频道",Smithsonian Channel
+https://stream.freetv.fun/b1553b81be58e6846203539f162b4b40c0cc53697d897d9388b42fa7f43f8cae.ctv
+#EXTINF:-1 group-title="国际频道",BBC EARTH
+https://z02.ubtvfans.com/live/rx1/97/5eb4dbe359d9f54e5c3679edaa13ec99/index.m3u8
+#EXTINF:-1 group-title="国际频道",Discovery Channel
+http://45.159.74.14:80/DiscoveryChannel/index.m3u8
+#EXTINF:-1 group-title="台湾频道",TVBS56台 HD
+https://z02.ubtvfans.com/live/rx1/2273/d72f24016c5ba7087527fb648d02969a/index.m3u8
+#EXTINF:-1 group-title="台湾频道",中天新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+#EXTINF:-1 group-title="台湾频道",三立新聞
+https://z02.ubtvfans.com/live/rx1/2794/b079f12a6a87edef4ef0c9eb18f67584/index.m3u8
+#EXTINF:-1 group-title="台湾频道",臺視新聞臺
+https://stream.freetv.fun/3e712c7facb3dbae8eebf29e560978e03f3711827b09e8a4f2ae7f346673716f.ctv
+#EXTINF:-1 group-title="台湾频道",東森新聞HD
+http://37.27.111.214:8080/live/20/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",非凡新聞HD
+https://stream.freetv.fun/a46f1155e768a1d44ec78e6a01acafe3f2f83650f9352db8e8eb84170d7535d7.ctv
+#EXTINF:-1 group-title="台湾频道",民視新聞HD
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 group-title="台湾频道",中視新聞
+https://stream.freetv.fun/4a761bf0caa97c89b156885de0a3183d4ab0691e25372a29419c4e0562fb1ba0.m3u8
+#EXTINF:-1 group-title="台湾频道",TVBS ASIA
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="台湾频道",TVBS News
+https://stream.freetv.fun/cb543d68699e7a207dfa24e617f1a3a702eb09e2cfefcb732636ca4720162c0d.ctv
+#EXTINF:-1 group-title="台湾频道",TVBS新聞HD
+https://z02.ubtvfans.com/live/rx2/2/04c1c443d4f9f5983c9e9a491ba05f05/index.m3u8
+#EXTINF:-1 group-title="台湾频道",TVBS歡樂臺HD
+https://stream.freetv.fun/bddb60f3ed16f8742e1193ec7ec4e1f3ff85d6d04dfc8a55a49174401788ca5b.ctv
+#EXTINF:-1 group-title="台湾频道",TVBS精采臺
+https://stream.freetv.fun/cc396e33116b37cb64f06f3dab17211b5eb7d9407fdbd3e0af2caec18e29516a.ctv
+#EXTINF:-1 group-title="台湾频道",TVBS綜藝
+https://stream.freetv.fun/8f9748eccf8a2180e012c6f0d04c28562fb46bdcb50ea8cf1ccc71195ec0b6b8.ctv
+#EXTINF:-1 group-title="台湾频道",Taiwan Plus
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+#EXTINF:-1 group-title="台湾频道",三立INEWS HD
+https://stream.freetv.fun/ece494811b790a24619e83140192ea464f2d125864e5975b80daa0ed2d1ff5ac.ctv
+#EXTINF:-1 group-title="台湾频道",三立iNEWS
+https://stream.freetv.fun/19bb2614438a969a06d41ed9d4fd9c4f2c61837346096f0b9286fa0d7d18b96c.ctv
+#EXTINF:-1 group-title="台湾频道",三立國際
+https://z02.ubtvfans.com/live/rx3/2285/6a8add031ee3407648e3eb8731932206/index.m3u8
+#EXTINF:-1 group-title="台湾频道",三立戲劇
+https://stream.freetv.fun/dfc1dbdc75f21440e766fce57311d845cc03e3c8acee950971c2d8a70a97df86.m3u8
+#EXTINF:-1 group-title="台湾频道",三立新聞+
+https://stream.freetv.fun/a97a103dc92d94b93dcc836a385d40739a3220f141df8d6333ba8e7a84f54464.ctv
+#EXTINF:-1 group-title="台湾频道",三立綜合
+https://stream.freetv.fun/fdf2bf897e0217754c91e5064b1ac7855f31eda692af574b11db9c97d9b5e23b.ctv
+#EXTINF:-1 group-title="台湾频道",三立臺灣
+https://stream.freetv.fun/f85e0aed9779c6b1b6865708da72d0aa4e3b8b2b30c2760700f3e3123553f0ee.ctv
+#EXTINF:-1 group-title="台湾频道",三立都會
+https://z02.ubtvfans.com/live/rx1/2435/ea85f251db5b39cc8ca85abb7f2349e0/index.m3u8
+#EXTINF:-1 group-title="台湾频道",中天新闻+
+https://ythls.armelin.one/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
+#EXTINF:-1 group-title="台湾频道",中天亞洲
+https://z02.ubtvfans.com/live/rx1/322/b51b8d02c207db98c44228186a5310b1/index.m3u8
+#EXTINF:-1 group-title="台湾频道",中天綜合HD
+https://z02.ubtvfans.com/live/rx1/3072/545c68b12b7da5ddad698af533934093/index.m3u8
+#EXTINF:-1 group-title="台湾频道",中天娛樂HD
+https://z02.ubtvfans.com/live/rx1/324/461220d54ade176ad23396b4c39a3fe4/index.m3u8
+#EXTINF:-1 group-title="台湾频道",中天新聞+
+https://stream.freetv.fun/0efa038ef8b00da22a46c019893c5170b1b49731e8b26ede0655c7f76e5dbfa7.ctv
+#EXTINF:-1 group-title="台湾频道",中視综合
+https://stream.freetv.fun/4f689971c6946a132ba4d0841ab588e5e0cbbee93f66e5d29f6da48ac156b4aa.ctv
+#EXTINF:-1 group-title="台湾频道",中視新聞臺
+https://stream.freetv.fun/b0d95534a31f56b7649a2dcb64f83ec33b9113f4e92a5cdeb0acbf986dc05b3d.ctv
+#EXTINF:-1 group-title="台湾频道",中視經典
+https://stream.freetv.fun/5a4271217f500b7d03a9798fdcf007aaaee23b2d17281cdfbd008cdbdc6560b3.ctv
+#EXTINF:-1 group-title="台湾频道",中視菁采臺
+https://stream.freetv.fun/8a745e91e4ea4b63711f1ceee2845ce41b6a8c867e2e757b663dc4428d3a37fe.ctv
+#EXTINF:-1 group-title="台湾频道",東森亞洲新聞
+https://z02.ubtvfans.com/live/rx1/3/0e6d203e74c6b1e9402855ab8065e43c/index.m3u8
+#EXTINF:-1 group-title="台湾频道",東森美洲新聞
+https://stream.freetv.fun/fa34408ed30b39c93655467bd2bf33e33295f5c28a16ca17dce40d8feacaf17a.m3u8
+#EXTINF:-1 group-title="台湾频道",東森超視
+https://z02.ubtvfans.com/live/rx1/80/1b79a8a00f6ef2e6e5f73f98084d4d02/index.m3u8
+#EXTINF:-1 group-title="台湾频道",東森幼幼
+https://z02.ubtvfans.com/live/rx1/371/0fd95cba4794f8bed187c2bcfa9c47d1/index.m3u8
+#EXTINF:-1 group-title="台湾频道",東森戲劇
+https://z02.ubtvfans.com/live/rx1/2825/6a22401f69113d2529c575454321ddc8/index.m3u8
+#EXTINF:-1 group-title="台湾频道",東森洋片
+https://z02.ubtvfans.com/live/rx1/1128/fade026d9ed28330bb37ac8ca20caeac/index.m3u8
+#EXTINF:-1 group-title="台湾频道",東森電影
+https://z02.ubtvfans.com/live/rx1/2720/76950085d6b17b40e1038a69438ba180/index.m3u8
+#EXTINF:-1 group-title="台湾频道",東森財經
+https://z02.ubtvfans.com/live/rx2/12/79e2953f288da7484cd18641c899c9d6/index.m3u8
+#EXTINF:-1 group-title="台湾频道",東森美洲中國臺
+https://stream.freetv.fun/0d9d053e113b9f4affb851bf56c0a2ed8755fab592272d0d922555abd74cee95.m3u8
+#EXTINF:-1 group-title="台湾频道",民視影劇臺
+https://stream.freetv.fun/d9e545bdf88ef5451609fad37bec4853a48fc29a48dd2bac360344210d4e53fb.ctv
+#EXTINF:-1 group-title="台湾频道",民視旅遊臺
+https://stream.freetv.fun/92f1ad36a46147ed1f147091b1a8d6447cb9b089f87ab1047271187fa8015a7b.ctv
+#EXTINF:-1 group-title="台湾频道",民視第一台
+https://stream.freetv.fun/046f5a225f1372bab23d03244865a597c2524a4982b979a1664f83b5af42818e.ctv
+#EXTINF:-1 group-title="台湾频道",民視綜藝臺
+https://stream.freetv.fun/f670f5cf01c23f89a7dd6422e4c39feb0d793707ac34e7aef07f2f55a7d58aec.ctv
+#EXTINF:-1 group-title="台湾频道",民視臺灣台
+https://stream.freetv.fun/218b001e065d7a5346aea2b7690ef91eda914a6be012f7647a41684aeb75c0b0.ctv
+#EXTINF:-1 group-title="台湾频道",非凡商業
+https://stream.freetv.fun/410f89101d2157cb4feaf5f29d104ae500e069125b751cf7a555e63314e2a153.ctv
+#EXTINF:-1 group-title="台湾频道",華視
+rtmp://f13h.mine.nu/sat/tv111
+#EXTINF:-1 group-title="台湾频道",華視新闻
+https://stream.freetv.fun/e20080e29c6026851ecbd5d74487fd0df3afb5d16e61be2b5b85db274cfe7787.ctv
+#EXTINF:-1 group-title="台湾频道",高點綜合
+https://stream.freetv.fun/6778e19f7a597528f39a8b156d8218edf0868d441540e6f229e87366d700e033.m3u8
+#EXTINF:-1 group-title="台湾频道",壹新聞
+https://z02.ubtvfans.com/live/rx1/2777/b6908ddbdf06ab2e4bdb37d549cd6b8c/index.m3u8
+#EXTINF:-1 group-title="台湾频道",壹電影
+https://z02.ubtvfans.com/live/rx1/2284/79d59ad50a6ff1e27f57853a0e5666aa/index.m3u8
+#EXTINF:-1 group-title="台湾频道",鏡新聞
+https://stream.freetv.fun/415cfb1f458509f13260584630e92d63a3b2ab617ee99b74578306f05fe730fb.ctv
+#EXTINF:-1 group-title="台湾频道",公視
+https://stream.freetv.fun/68063c382e8596c301016e3d13a513e74b92e8e6ac118e0ef13629b9fb67a0a9.m3u8
+#EXTINF:-1 group-title="台湾频道",臺視HD
+https://stream.freetv.fun/a7dddec93a9aabf57c6cc078c93713caa086c81dca9b15afc481edbf797543e1.ctv
+#EXTINF:-1 group-title="台湾频道",臺視財經臺
+https://stream.freetv.fun/25291b672ddf485409f82c5cffb3dc50abc108d5d0f4eb47a155f99cd01c59c4.ctv
+#EXTINF:-1 group-title="台湾频道",人間衛視
+https://stream.freetv.fun/b477995b160cdb9c7e4073eb76a5e241dfe20bcfee9faf4528af9377a53bf6c5.m3u8
+#EXTINF:-1 group-title="台湾频道",八大第一
+https://z02.ubtvfans.com/live/rx1/318/caf30fed70d5227d71cf045a1d212005/index.m3u8
+#EXTINF:-1 group-title="台湾频道",八大娛樂臺
+https://z02.ubtvfans.com/live/rx1/105/18d99bf74ef856f47b3fee019df5b5ea/index.m3u8
+#EXTINF:-1 group-title="台湾频道",八大戲劇HD
+https://stream.freetv.fun/bf9c69740a7b5225aab8547e6e8b8ddef7f58161aefa604079f849beab2c339e.m3u8
+#EXTINF:-1 group-title="台湾频道",八大精彩
+https://stream.freetv.fun/b79af9cc2f9278994e01c40a671834790dadb4249130ed11a1c29c60b000548e.ctv
+#EXTINF:-1 group-title="台湾频道",八大綜合
+https://stream.freetv.fun/e7df67a1a8400d4741889391ccc7e8a2b3f623a4f19544ae0863ae2c184bbe2c.m3u8
+#EXTINF:-1 group-title="台湾频道",八大綜藝
+https://stream.freetv.fun/4d04ee7b8f5c7494488ef4825ea4556a6d33dbe0f585e68d939c4a99e630ac48.ctv
+#EXTINF:-1 group-title="台湾频道",公視戲劇
+https://stream.freetv.fun/3eddb80d0f5a23691bf236b540e51f0e10f51f7d0811e3c42f03e7b7c21e3beb.ctv
+#EXTINF:-1 group-title="台湾频道",博斯無限
+https://stream.freetv.fun/8382d0266b5c6cbe1cbb4cd574ed822f27d0d83733fcae785568328f8ea56df2.ctv
+#EXTINF:-1 group-title="台湾频道",博斯網球
+https://stream.freetv.fun/71753267dbc55e4a0f3e33e28a1533db4955b4b660b850715f2d2095da74c0fa.ctv
+#EXTINF:-1 group-title="台湾频道",博斯運動
+https://stream.freetv.fun/3cec6907e676e3d6fb514c6ff5e1d039c0417ceff2a0f5702f0dacd2ae74cbf6.ctv
+#EXTINF:-1 group-title="台湾频道",博斯高球
+https://stream.freetv.fun/7a4b03a14d74273650a665f075e44861c63f4a51281c47bf53142adff89334ca.m3u8
+#EXTINF:-1 group-title="台湾频道",博斯魅力
+https://stream.freetv.fun/53e1bcead4c2301a13c3da0e5b9874d51ca01b18ac1f2b6015bc5bf1b12fd1c8.m3u8
+#EXTINF:-1 group-title="台湾频道",唯心電視
+https://stream.freetv.fun/821eba8c8f03a7d2b604051525642cfdca5c96a65d2fa7ca56ea9d179674b543.m3u8
+#EXTINF:-1 group-title="台湾频道",國興衛視
+https://z02.ubtvfans.com/live/rx1/65/512600edc0968aef5fac5f0cc1195023/index.m3u8
+#EXTINF:-1 group-title="台湾频道",國家地理頻道KIDS
+https://stream.freetv.fun/879629b475ab87472f6aa231526b6ca680dfe239a506107120b46c55d6146a57.ctv
+#EXTINF:-1 group-title="台湾频道",大愛
+https://stream.freetv.fun/cda9c15049fc9a62b363d1018881fe11828f20acfccb0ba7927604e967e003e7.m3u8
+#EXTINF:-1 group-title="台湾频道",大立電視臺
+https://stream.freetv.fun/5089e07a3319b33160e486ab9c09540d8ad763339474f9c41ba8062333504b0d.m3u8
+#EXTINF:-1 group-title="台湾频道",GOODTV好訊息
+https://stream.freetv.fun/3362fbf7fa08990f4ae543cb8925dd0fe0776cde99759118f74ecef018b508fb.ctv
+#EXTINF:-1 group-title="台湾频道",客家電視HAKKATV
+https://stream.freetv.fun/4c13b8b888c8bfab6c3ddd471f990ee3271e4b3bbc84769aaa9f1878ed9f7c49.ctv
+#EXTINF:-1 group-title="台湾频道",寰宇新聞
+https://stream.freetv.fun/83e7e77358186a2bb06c0e3688cc63c4c5b94ef2ccee07639c44a40dfb1cef28.ctv
+#EXTINF:-1 group-title="台湾频道",寰宇新聞FHD
+https://stream.freetv.fun/b39c04ba29af87fb429c23c34eb72e72f6d53ae58de5b2b9fe944df42e88555a.ctv
+#EXTINF:-1 group-title="台湾频道",寰宇新聞台灣臺
+https://stream.freetv.fun/c93134c4a7750f6a2366293eac9a588b7412c103b897dc00080badfb343dd3be.ctv
+#EXTINF:-1 group-title="台湾频道",年代新聞HD
+https://stream.freetv.fun/b568fdf49ecc39119662a57f6e4ee16a6e41643a2a3c66854f9bc81663a8174b.m3u8
+#EXTINF:-1 group-title="台湾频道",年代MUCH
+https://stream.freetv.fun/29458980ecd1560a7748913f3bd65a12aba1d486fac97de8723b7ea6e70dc683.m3u8
+#EXTINF:-1 group-title="台湾频道",影迷數位電影臺
+https://stream.freetv.fun/092f3ca46d1e5f24e6458d55a857b3bd6521a3cb992a57f2eff178f58a2ffae0.ctv
+#EXTINF:-1 group-title="台湾频道",時尚運動X
+https://stream.freetv.fun/a9ed558944328c405521be07ba75b505b03fd8497d523f8f27b6348a9cf3cdde.ctv
+#EXTINF:-1 group-title="台湾频道",智林體育
+https://stream.freetv.fun/26f5cd8b9f0d33914aab83c5323eb7613e8bf3429d663093384ab634f23f7279.ctv
+#EXTINF:-1 group-title="台湾频道",生命電視臺
+https://stream.freetv.fun/3f1da41967f70b7fc0c80cce65f2a8c6d9c74b85eb97d39b0f3745b36b69a875.m3u8
+#EXTINF:-1 group-title="台湾频道",經典電影臺
+https://stream.freetv.fun/a8fb7adb8dbbc9bb8251b6dca1f06bde4a42896fc3c871353438d667450360b1.ctv
+#EXTINF:-1 group-title="台湾频道",緯來日本
+https://stream.freetv.fun/3cd74587ba1c238ff02161b0be00701c89ca3a01ab27f78e3439a6a4acaebb9c.m3u8
+#EXTINF:-1 group-title="台湾频道",緯來綜合
+https://stream.freetv.fun/a09899fad3b0e8431563b8c6136e10ca1cd352e0d9cfa4792b4c97838659bf8b.m3u8
+#EXTINF:-1 group-title="台湾频道",緯來育樂
+rtmp://220.130.201.73/sat/tv701
+#EXTINF:-1 group-title="台湾频道",緯來電影
+https://z02.ubtvfans.com/live/rx1/2728/4a67b3bc50b0d12c49c3b29faaacacb2/index.m3u8
+#EXTINF:-1 group-title="台湾频道",緯來體育
+https://stream.freetv.fun/2a97ff36ea404b8095cb4384eb9846e9eebdadbee0b1ac31c5bc4c80f6b5b03b.m3u8
+#EXTINF:-1 group-title="台湾频道",采昌影劇
+https://stream.freetv.fun/74bd2635f43c9efb719d0be31eaf30783381d127199369370664108a7c147d84.ctv
+#EXTINF:-1 group-title="台湾频道",靖天國際
+https://stream.freetv.fun/a9a4812881a3d4a36a13e260956a2b4bff4a20cda605a6588978a4da9443b16b.m3u8
+#EXTINF:-1 group-title="台湾频道",靖天綜合
+https://stream.freetv.fun/fd6a2d196572e67cb8d49f16bcd9602af8b7408cd4e1e6a9e4ae988e80481df7.ctv
+#EXTINF:-1 group-title="台湾频道",靖天卡通
+https://stream.freetv.fun/8525821a0f63ad1474794a1c6ddc6d6ced2e0a57bc60be4f6d5504867e0076ae.ctv
+#EXTINF:-1 group-title="台湾频道",靖天戲劇
+https://stream.freetv.fun/e721c113368b96bfb9a6c17cd16910e03721d8dddfa516896fb2bace1f84c1a8.ctv
+#EXTINF:-1 group-title="台湾频道",靖天日本
+https://stream.freetv.fun/a0139192e3443869304e1c3e3c3d24699e3673ba7f37e40524356affc6bfecb0.ctv
+#EXTINF:-1 group-title="台湾频道",靖天映畫
+https://stream.freetv.fun/feaa2c7eeaa63b1901a08d1b2c3d711c1198fa56765f3aca7a88c5d31dbcd398.ctv
+#EXTINF:-1 group-title="台湾频道",靖天歡樂臺
+https://stream.freetv.fun/69f19fe4a56eaf924aca142d6ad6f2efdcfba09ad4785ab60d5548fd5a72656a.ctv
+#EXTINF:-1 group-title="台湾频道",靖天育樂
+https://stream.freetv.fun/fe7adca93f22e088e68343794fc435a9c196ae886fe39b96629a869ef987c06b.ctv
+#EXTINF:-1 group-title="台湾频道",靖天資訊
+https://stream.freetv.fun/dc312cfd1f83497a7080eb591359de2565fe6b1ef043b9f19b52700c8cf7464d.ctv
+#EXTINF:-1 group-title="台湾频道",靖天電影
+https://stream.freetv.fun/4b52f60448b52dc2de12e73976800074fa678ec4a94c399c9ca7d5647ab725c1.ctv
+#EXTINF:-1 group-title="台湾频道",靖洋戲劇
+https://stream.freetv.fun/5452480acde23910bb2831146a9b2b97355b909f7df65938f1309c73a1b35d5f.ctv
+#EXTINF:-1 group-title="台湾频道",龍祥電影
+https://stream.freetv.fun/8530c2f0139df419649832523f6613c8ac5d6a11c6be547ac6e304cc45ef6301.m3u8
+#EXTINF:-1 group-title="台湾频道",龍華偶像
+https://stream.freetv.fun/f04cd7ed7bbbd3449b03632a4df58481a0871423d84f0e2950b5507a9652eaca.m3u8
+#EXTINF:-1 group-title="台湾频道",龍華動畫
+https://stream.freetv.fun/34f3bb82caad54b71cadb2be5e93bad19b2655c66bf397791e66a5030576e675.ctv
+#EXTINF:-1 group-title="台湾频道",龍華戲劇
+https://stream.freetv.fun/8bc70377663b51d2267fc2374501866b88defb91f1e8bfac5f06fc4460d9e088.m3u8
+#EXTINF:-1 group-title="台湾频道",龍華戲劇
+https://stream.freetv.fun/93d74e9f498391fbbf01b6235858ae4289e2ecc21f0facb401802e73ea51e079.ctv
+#EXTINF:-1 group-title="台湾频道",龍華日韓
+https://stream.freetv.fun/54187f7b52bbb08407ce9894fa6e6b0ba632cdd0aeb29c91e9cb9efd129898ce.ctv
+#EXTINF:-1 group-title="台湾频道",龍華洋片
+https://stream.freetv.fun/caf1001467b7bd6f72f5b6ba30fe945645cff1abece08b22d19e930048b7dd9f.m3u8
+#EXTINF:-1 group-title="台湾频道",龍華經典
+https://stream.freetv.fun/b3cafc1195fc65049e4faa3252721631530e68ef560f3cbd2f0db533d558cf57.ctv
+#EXTINF:-1 group-title="台湾频道",龍華電影
+https://stream.freetv.fun/c1c4fac8b29f1c9e54fd8597ae989912d0c19e2b675fe914ef6a306c647a4091.ctv
+#EXTINF:-1 group-title="台湾频道",AMC電影
+https://stream.freetv.fun/0f84f68eb15c128379a17fd9308457923c47546f85b6c09828ae6ea76da405d6.ctv
+#EXTINF:-1 group-title="台湾频道",AMC電影
+https://stream.freetv.fun/ceb8e5d09e9af65624a0023241c486d3d4ba222029e8e745bcd4901f47d95445.m3u8
+#EXTINF:-1 group-title="台湾频道",CatchPlay電影
+https://stream.freetv.fun/4ad6faf439337a12dc4cd3a4722a712747351cc5cb3dd2feb05dc7d176d69295.ctv
+#EXTINF:-1 group-title="台湾频道",Animax动画台
+https://z02.ubtvfans.com/live/rx1/59/cb49382c9457a5f3586f9e0635594838/index.m3u8
+#EXTINF:-1 group-title="台湾频道",BBC Lifestyle(TW)
+https://stream.freetv.fun/37185e3c4171c81c017b84c42de67c00529928f833fd8abceb0d575410ead904.ctv
+#EXTINF:-1 group-title="台湾频道",CN卡通頻道
+https://stream.freetv.fun/dc12110f04c56c92bb85c7d092ae8f56bd4191d8bcb0d205575d3135985a0b41.ctv
+#EXTINF:-1 group-title="台湾频道",ELTA娛樂HD
+https://stream.freetv.fun/3986f17b4a181623ed16aa8c464efec0323a6e7fcc986e8322991072388ac74c.ctv
+#EXTINF:-1 group-title="台湾频道",ELTA娛樂HD
+https://stream.freetv.fun/962ef575c56b328425b4cec057e93047f1d2efae299492de19c2c1c631002ee5.m3u8
+#EXTINF:-1 group-title="台湾频道",ELTA生活旅遊
+https://stream.freetv.fun/0df3e88766a547113f11ad4f090289476da1f0b2e586fe350939cc5f5779bb09.ctv
+#EXTINF:-1 group-title="台湾频道",ELTA綜合HD
+https://stream.freetv.fun/47c4863bcbc57d2ed5c1f0cd4ed6c021185fc281f88e23e0e778261b88f9c0b6.m3u8
+#EXTINF:-1 group-title="台湾频道",EYE TV旅遊
+https://stream.freetv.fun/5108e253f49ca6051e7774321ed2a5a4fd7675c5bfa9e5d970be903cd491b084.ctv
+#EXTINF:-1 group-title="台湾频道",EYE TV旅遊
+https://stream.freetv.fun/061a4520150a4ad32aff43ef779d4bca1a08d46c4bdde925f5d6a75a1bb5108d.ctv
+#EXTINF:-1 group-title="台湾频道",JET綜合臺
+https://stream.freetv.fun/2ffe73e20426c456381b57767d2c80baaf8fb0c59d7dcfbdc03f3c9df3cac16f.m3u8
+#EXTINF:-1 group-title="台湾频道",Lifetime(TW)
+https://stream.freetv.fun/c3cb9a0124def7ea782f76ba2cef112a7fe63b298505ef278002c007ad5c4e58.ctv
+#EXTINF:-1 group-title="台湾频道",Love Nature
+https://stream.freetv.fun/6ca8c06e4a447faa15af32dde46922f9a0d15c92ece338fd3daaf7c895f285f0.ctv
+#EXTINF:-1 group-title="台湾频道",MOMO綜合
+rtmp://f13h.mine.nu/sat/tv761
+#EXTINF:-1 group-title="台湾频道",靖洋卡通台
+https://stream.freetv.fun/b727e0e09cedfa961511c1277b06bff72e35fb6000567b5e02b09305af23da0e.ctv
+#EXTINF:-1 group-title="台湾频道",SMART知識頻道
+https://stream.freetv.fun/3c8d226d9952457c22309ddf9767b572aac2947c95e6e328bca2f7c9606bc01b.ctv
+#EXTINF:-1 group-title="港澳频道",RTHK32
+http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+#EXTINF:-1 group-title="港澳频道",RTHK31
+https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
+#EXTINF:-1 group-title="港澳频道",HOY资讯台
+https://z02.ubtvfans.com/live/rx1/395/2afff7b9574d72ee839084fcdde78ff7/index.m3u8
+#EXTINF:-1 group-title="港澳频道",HOY 77
+https://z02.ubtvfans.com/live/rx1/401/2ab2599cd56cdf8db12d3cbd9fc24006/index.m3u8
+#EXTINF:-1 group-title="港澳频道",Viu TV
+https://z02.ubtvfans.com/live/rx1/72/45683d738c0c0f8cc659cb4126f5dad3/index.m3u8
+#EXTINF:-1 group-title="港澳频道",TVB+无线新闻
+https://z02.ubtvfans.com/live/rx1/45/006ff8207bf75d845e70fa88925fa6e3/index.m3u8
+#EXTINF:-1 group-title="港澳频道",TVB J2
+https://z02.ubtvfans.com/live/rx1/392/a8eb3028c1ce9d8eb38d3bdb55b4c171/index.m3u8
+#EXTINF:-1 group-title="港澳频道",TVB娱乐台
+https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+#EXTINF:-1 group-title="港澳频道",TVB星河
+https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
+#EXTINF:-1 group-title="港澳频道",TVB翡翠台
+https://stream.freetv.fun/332e58d4889775e85e40eb15fb99213958582128ad269277f3393bb0f2f54039.m3u8
+#EXTINF:-1 group-title="港澳频道",TVB明珠台
+https://stream.freetv.fun/8510a256b01aeda755761b35fddc4fbc4b3b5603dffa8b440d89b5bb3c6eaf7f.m3u8
+#EXTINF:-1 group-title="港澳频道",TVB功夫台
+https://z02.ubtvfans.com/live/rx1/168/83b003eeef5ee14257bc64c8a32eb617/index.m3u8
+#EXTINF:-1 group-title="港澳频道",有線新聞
+https://stream.freetv.fun/582f724b9e59720e761fb1cac713dbab7bee50bc6df470234dd62dd19714ca8d.m3u8
+#EXTINF:-1 group-title="港澳频道",HKS香港卫视
+https://stream.freetv.fun/692c8a08e7da9ab3595a7fcf3e32f316317a3fcfb86850ad8fa24c14b91781b9.ctv
+#EXTINF:-1 group-title="港澳频道",鳳凰資訊HD
+http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
+#EXTINF:-1 group-title="港澳频道",鳳凰衛視中文
+http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226317/index.m3u8
+#EXTINF:-1 group-title="港澳频道",鳳凰香港
+https://z02.ubtvfans.com/live/rx1/2810/babd6519bebc0baac3da4c6a72c8351e/index.m3u8
+#EXTINF:-1 group-title="港澳频道",鳳凰電影
+https://z02.ubtvfans.com/live/rx1/2814/8eecf538c9b2cfe2100b15b04bfabfc0/index.m3u8
+#EXTINF:-1 group-title="港澳频道",美亞電影台[HK]
+https://bsex.serv00.net/Smart.php?id=meiyamovie_twn
+#EXTINF:-1 group-title="港澳频道",NOW爆谷台
+https://stream.freetv.fun/bc97521e6ecfc495f5bf5ea0d3aea354504f294d77d1409aef7ffb493c651234.ctv
+#EXTINF:-1 group-title="港澳频道",Now Sports 618
+https://stream.freetv.fun/38d49b5ad19632dfa5368972726eec1cb84015c13c1a2a52f2c51f557c5f74a0.m3u8
+#EXTINF:-1 group-title="港澳频道",Now TV
+https://stream.freetv.fun/d102b4ec7480bb04df22c7ee49b64d33408cd566f9f3245db56bf898a8a85a21.m3u8
+#EXTINF:-1 group-title="港澳频道",Star Sports2
+https://stream.freetv.fun/13cd18dfe986eebdc500e2f9aa09d73aac171bf4e47e01b874375f9d35f51dac.ctv
+#EXTINF:-1 group-title="港澳频道",now Sports 5
+https://stream.freetv.fun/935e27675c0ef1c23c604aa42da194aaf2625b06c042ddc7a003a71b1cda0872.ctv
+#EXTINF:-1 group-title="港澳频道",環球電視臺
+https://stream.freetv.fun/b4dc9c6994b988ed1e17cd22e6574f578b8d43a534a2e4d07049f711b3e9bdad.m3u8
+#EXTINF:-1 group-title="港澳频道",耀才財經臺
+https://stream.freetv.fun/3cb5dbb74bbbd3150891cf1795ae042b33baf187a619dc4ac42aa860dc85bf8e.m3u8
+#EXTINF:-1 group-title="港澳频道",香港有線新聞臺
+https://stream.freetv.fun/4c65fc12a950810e9f068c55b2abf43cf7937762e9c5d4d44381205743c731bf.ctv
+#EXTINF:-1 group-title="港澳频道",澳门卫视
+https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
+#EXTINF:-1 group-title="港澳频道",澳門蓮花
+https://z02.ubtvfans.com/live/rx1/70/4f5d1beff287c563c64c30e7f7fc5729/index.m3u8
+#EXTINF:-1 group-title="港澳频道",星空卫视
+https://z02.ubtvfans.com/live/rx1/56/58a02d1ccbf9a135d9f58c4ad3ce6e04/index.m3u8
+#EXTINF:-1 group-title="港澳频道",美国中文电视
+https://jpts.sinovision.net/livestream.m3u8
+#EXTINF:-1 group-title="港澳频道",亚洲旅游台
+http://37.27.111.214:8080/live/10/hls.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV1
+http://27.40.16.70:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKkjJ6yQpJZ9CGFM9sHS3VdiLvaf2eXKnEWpoNjJ53rwe&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715183611097&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e65f76ef0fc78&FvSeid=77fd5578ee7feea2&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4276&Fsv_chan_hls_se_idx=60&Fsv_TBt=8466552&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-1-CQ&Fsv_CMSID=GD_CUCC
+#EXTINF:-1 group-title="央视频道",CCTV2
+https://z02.ubtvfans.com/live/rx1/201/72c3320633f511d538db55c14a9fb809/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV3
+http://221.4.143.70:8114/GD.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBewnOI0Q0FnH0j6ix%2FEuEE%2FlrAcxI6a6K3gCsE%2F0xqwv&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714141713143&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515e9b01de7422d3&FvSeid=88fe5578aee4ebd2&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=9873&Fsv_chan_hls_se_idx=59&Fsv_TBt=8465136&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-3-CQ&Fsv_CMSID=GD_CUCC
+#EXTINF:-1 group-title="央视频道",CCTV4
+http://58.248.112.229:8114/GD.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBRab8%2B23dyjcWftcVGhPU%2BNGwbxMCOQz1LvVoHJF7Vi%2F&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714141890962&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515e9c65870a689b&FvSeid=88fe5578aeeccb46&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18136&Fsv_chan_hls_se_idx=59&Fsv_TBt=8467576&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-4-CQ&Fsv_CMSID=GD_CUCC
+#EXTINF:-1 group-title="央视频道",CCTV4K 超高清
+https://stream1.freetv.fun/40615d05a2b26dbd0811a780204d796f44022abb0f27c6d2826ce831dff6b662.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV5
+http://58.248.112.230:8114/GD.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBSH%2Fdcga0ub9HyjSFJq4wMsikb7ADOVlWhn49oiB6V%2FG&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714141993662&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515e9d32fa20cc6a&FvSeid=88fe5578aeee6593&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18135&Fsv_chan_hls_se_idx=58&Fsv_TBt=8468304&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-5-CQ&Fsv_CMSID=GD_CUCC
+#EXTINF:-1 group-title="央视频道",CCTV5+
+http://58.248.112.229:8114/GD_CUCC/G_CCTV-5PLUS-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBYdR%2FXUke9cnQAha7YFSVSe71iqwQ7l064%2Fcza9NPPzC&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714142067736&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515e9dc7161f6f45&FvSeid=88fe5578aeef8e53&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18140&Fsv_chan_hls_se_idx=58&Fsv_TBt=8466448&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-5PLUS-CQ&Fsv_CMSID=GD_CUCC
+#EXTINF:-1 group-title="央视频道",CCTV6
+https://z02.ubtvfans.com/live/rx1/206/22c8d0a177803e1a378082c851a16007/index.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV7
+http://120.87.97.245:8114/GD.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBbnOCQoNESV2qWsAYbhnlDiyPV4eph4rJWQgnDXisMTe&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714142251011&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515e9f359e8a15a7&FvSeid=88fe5578aef26916&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4291&Fsv_chan_hls_se_idx=57&Fsv_TBt=8467648&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-7-CQ&Fsv_CMSID=GD_CUCC
+#EXTINF:-1 group-title="央视频道",CCTV8
+http://58.248.112.230:8114/GD.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBYZxg8b1eRG7LTk8x07GrI44Cftlba08rT1Q6udDNxyt&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714142312998&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515e9fb1a10697de&FvSeid=88fe5578aef360be&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18131&Fsv_chan_hls_se_idx=56&Fsv_TBt=8466856&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-8-CQ&Fsv_CMSID=GD_CUCC
+#EXTINF:-1 group-title="央视频道",CCTV9
+http://221.4.143.69:8114/GD.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBZc7OJ1GFY%2FDpyULoLmfNSfAKtWnnk8cjSV9zSUfQpeh&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714142362100&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515ea013cefbd9a1&FvSeid=88fe5578aeef086a&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=9866&Fsv_chan_hls_se_idx=56&Fsv_TBt=8466328&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-9-CQ&Fsv_CMSID=GD_CUCC
+#EXTINF:-1 group-title="央视频道",CCTV10
+http://120.87.97.246:8114/GD.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBUsd9mij0JyOcibqYTdmWtJRAbL1Z1y%2FbfEZUJlg3Wvj&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714142432333&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515ea0a05b529be9&FvSeid=88fe5578aef54285&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4288&Fsv_chan_hls_se_idx=55&Fsv_TBt=8467232&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-10-CQ&Fsv_CMSID=GD_CUCC
+#EXTINF:-1 group-title="央视频道",CCTV11
+http://58.248.112.229:8114/GD.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBQtjk7PDi4fkN2nvO2gK27vcQcFLN2lXJ4FdJoL4kLn0&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714142503836&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515ea12f4d9ddde5&FvSeid=88fe5578aef65e1f&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18128&Fsv_chan_hls_se_idx=55&Fsv_TBt=4356104&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-11-CQ&Fsv_CMSID=GD_CUCC
+#EXTINF:-1 group-title="央视频道",CCTV12
+http://58.248.112.230:8114/GD.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBRtFGgShYCQQqFHAFhzmleoLMq0KIThiOUWH4ztNrd0k&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714142580867&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515ea1c95f2a805f&FvSeid=88fe5578aef792b7&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18127&Fsv_chan_hls_se_idx=54&Fsv_TBt=8466896&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-12-CQ&Fsv_CMSID=GD_CUCC
+#EXTINF:-1 group-title="央视频道",CCTV13
+http://58.248.112.229:8114/GD.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBeUi4Thb7vkXG9wotcNmK%2FSEqT0xBi9U3gvduQFenMFz&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714142684111&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515ea297dbe86391&FvSeid=88fe5578aef92c0e&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18126&Fsv_chan_hls_se_idx=54&Fsv_TBt=8467928&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-13-CQ&Fsv_CMSID=GD_CUCC
+#EXTINF:-1 group-title="央视频道",CCTV14
+http://120.87.97.246:8114/GD.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBc44kHEGXWPeTdip0KbSgbcUS47HSY0WGvdsrttpfOO6&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714142761082&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515ea331cc7525f8&FvSeid=88fe5578aefa65da&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4284&Fsv_chan_hls_se_idx=53&Fsv_TBt=8467848&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-14-CQ&Fsv_CMSID=GD_CUCC
+#EXTINF:-1 group-title="央视频道",CCTV15
+http://27.40.16.69:8114/GD.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBYyPYgkCWBSIT3aCcBdsAjsuu6MyRrRs1cAsik3e8WER&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714142830484&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515ea3bca60188e9&FvSeid=88fe5578aefb7ba7&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4261&Fsv_chan_hls_se_idx=53&Fsv_TBt=8467296&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-15-CQ&Fsv_CMSID=GD_CUCC
+#EXTINF:-1 group-title="央视频道",CCTV16
+http://221.4.143.70:8114/GD.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBVSIaGkZ%2BPhCYgvTlbbof9ehJWpxNEs6VzmrJ5uWaaFf&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714142879377&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515ea41e722a0a58&FvSeid=88fe5578aef71f1f&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=9859&Fsv_chan_hls_se_idx=52&Fsv_TBt=8468280&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-16-CQ&Fsv_CMSID=GD_CUCC
+#EXTINF:-1 group-title="央视频道",CCTV17
+http://58.248.112.229:8114/GD.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBflsNSUvoRXJq9Dxabd45ul6sEw7jHEWykLtxlHY3hJu&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714142953661&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515ea4b3041d0be6&FvSeid=88fe5578aefd65ce&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18122&Fsv_chan_hls_se_idx=52&Fsv_TBt=8466808&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-17-CQ&Fsv_CMSID=GD_CUCC
+#EXTINF:-1 group-title="央视频道",CCTV世界地理
+https://stream1.freetv.fun/d959e7fa2de88f0daa2b9a5de3cc6caa70c29ab06c0cb568083ad454fd64c910.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV兵器科技
+https://stream1.freetv.fun/ec6162d3eea49bdcecd9277c67c34977f8ec6d1bf975b9750428f71fc0a8e288.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV央視文化精品
+https://stream1.freetv.fun/b65dde5485685ebf96e9fea9594adcd78754815eb30596147a7063fd4d83a6a4.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV央視檯球
+https://stream1.freetv.fun/dea14a05324b243a457e1ea8303efeca1010ca824cfd7aa10e85fb305bf9ac7c.ctv
+#EXTINF:-1 group-title="央视频道",CCTV女性時尚
+https://stream1.freetv.fun/668647f1d573b7ae39336af42a3122b29d4e020464db69803bbdc842c022329d.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV懷舊劇場
+https://stream1.freetv.fun/f15ee6cfb9565bd3cd9aae88e6ab5b1e5f805c0e73d54f76ca846248b00dceef.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV第一劇場
+https://stream1.freetv.fun/31cbe2ad06dc69104322ab8dc32fd094b5bc855f9e9a7f2efbdb34f91a819be0.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV風雲劇場
+https://stream1.freetv.fun/676f4b273ee7a1b54be02b6406b73822401d0be7b04001f0e77cb0c2a88830bf.ctv
+#EXTINF:-1 group-title="央视频道",CCTV風雲足球
+https://stream1.freetv.fun/f5984a4a5c2d0b153f783bfe5878209ce03902d76521ede65c4c52f54d50284b.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV風雲音樂
+https://stream1.freetv.fun/fbb9c2fdd584d6288026193b1b86b7fed01e7ae4cb4a9520b44e6f16aeb04e7e.m3u8
+#EXTINF:-1 group-title="央视频道",CGTN
+https://stream1.freetv.fun/9da4b9d945298870c627ae0447df5b78e59eeff2c78261322689d5f238ef649b.ctv
+#EXTINF:-1 group-title="央视频道",CGTN Documentary
+https://stream1.freetv.fun/150681e992ca007598bf964db5f1efb3df70a34cc446aff4239acc53f6698cb1.m3u8
+#EXTINF:-1 group-title="央视频道",CHC動作電影
+https://stream1.freetv.fun/006b3f2e27c8a3230cc32045d44cba89721e350f7b12bfff5ea1f0109a52c014.ctv
+#EXTINF:-1 group-title="央视频道",CHC家庭影院
+https://stream1.freetv.fun/afb1cd96cd286a1e4152279ff4bfbd1b00af04e447d26261cdf2bda778ee1b34.ctv
+#EXTINF:-1 group-title="央视频道",中國電影
+https://stream1.freetv.fun/9185f61073bdd3e3798ab263bbf5a362bb32debe3bf1bd13d792f071a4b1ef45.m3u8
+#EXTINF:-1 group-title="央视频道",中國交通
+https://stream1.freetv.fun/5035e1ca0f34b902670c53247fd4e7dd72241c5e01d8232353aeee77e1143dde.ctv
+#EXTINF:-1 group-title="央视频道",中國氣象頻道
+https://stream1.freetv.fun/47cfd3e9c488d6ac20d71bf2e620039d124e5d671c0bbe99aa8b2c2246a369f1.m3u8
+#EXTINF:-1 group-title="央视频道",國家地理頻道
+https://stream1.freetv.fun/879629b475ab87472f6aa231526b6ca680dfe239a506107120b46c55d6146a57.ctv
+#EXTINF:-1 group-title="卫视频道",三沙衛視
+http://221.4.143.70:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKn28G%2BWQkLi7Q1Mh845gzlZpk5pTBlduEA6C0mU%2FOMOo&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715182782124&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e5f7d8db637b1&FvSeid=77fd5578ee72f88e&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=8693&Fsv_chan_hls_se_idx=26&Fsv_TBt=4355976&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_SANSHA-HQ&Fsv_CMSID=GD_CUCC
+#EXTINF:-1 group-title="卫视频道",內蒙古衛視
+http://120.87.97.246:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKtadjOJg8CbeqsqTgzJiG7FM7k1u027nYSb3VMtNVHOm&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715182669897&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e5e9d43853283&FvSeid=77fd5578ee7139f9&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=3106&Fsv_chan_hls_se_idx=24&Fsv_TBt=2287296&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_NEIMENGGU&Fsv_CMSID=GD_CUCC
+#EXTINF:-1 group-title="卫视频道",兵團衛視
+http://58.248.112.229:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKg%2BHicnPfeizG3y0NUSJ2dRq2eA%2FYw6jIuuTgXuLMwo%2B&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715182594140&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e5e05840acf03&FvSeid=77fd5578ee7008c3&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4391&Fsv_chan_hls_se_idx=24&Fsv_TBt=2284520&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_BINGTUAN&Fsv_CMSID=GD_CUCC
+#EXTINF:-1 group-title="卫视频道",北京衛視
+http://58.248.112.229:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKn6pFJlsKFX2elUkY7G9Wuaj1MVb5sXKFIg1u28lIJn0&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715178807747&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e4070b83a8b8c&FvSeid=77fd5578ee34e2cf&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18116&Fsv_chan_hls_se_idx=49&Fsv_TBt=8466128&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_BEIJING-CQ&Fsv_CMSID=GD_CUCC
+#EXTINF:-1 group-title="卫视频道",北京新聞
+https://stream1.freetv.fun/df5f291b3e91d85d43f12c1253c789da96a06b0263fd5ccd662fd90514379fda.ctv
+#EXTINF:-1 group-title="卫视频道",吉林衛視
+https://stream1.freetv.fun/1e3692d9f3e6e367c78029455d60d2313e8d787f9e20300511b10d6af5a20f1b.ctv
+#EXTINF:-1 group-title="卫视频道",四川衛視
+http://58.248.112.230:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKihysHnFVsdNiy%2FnVMuA%2F2uEYXiVeRF%2BucKv3Z40C7o4&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715182969797&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e60f4e1f02053&FvSeid=77fd5578ee75ea0c&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18102&Fsv_chan_hls_se_idx=42&Fsv_TBt=8468784&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_SICHUAN-CQ&Fsv_CMSID=GD_CUCC
+#EXTINF:-1 group-title="卫视频道",大灣區衛視
+https://stream1.freetv.fun/f3baa657bdb7336111a07f353d562fafa8b470604efcc1dde627eab222e31ce2.ctv
+#EXTINF:-1 group-title="卫视频道",天津衛視
+http://221.4.143.69:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKqessbbY33u5MnZnHCFZZTKedVHdYk5kh2CdQP7Xn4%2B6&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715179130392&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e42f60faa9dd1&FvSeid=77fd5578ee39ecbe&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=9847&Fsv_chan_hls_se_idx=46&Fsv_TBt=8468032&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_TIANJIN-CQ&Fsv_CMSID=GD_CUCC
+#EXTINF:-1 group-title="卫视频道",安徽衛視
+http://58.248.112.230:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKihysHnFVsdNiy%2FnVMuA%2F2uEYXiVeRF%2BucKv3Z40C7o4&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715182969797&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e60f4e1f02053&FvSeid=77fd5578ee75ea0c&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18102&Fsv_chan_hls_se_idx=42&Fsv_TBt=8468784&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_SICHUAN-CQ&Fsv_CMSID=GD_CUCC
+#EXTINF:-1 group-title="卫视频道",山東衛視
+http://120.87.97.245:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKo%2BfIJoJ9xhIZtB7lTaNNRKhgu973cupNzXqrFaHpa4m&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715179016159&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e421184ec77bb&FvSeid=77fd5578ee382291&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4271&Fsv_chan_hls_se_idx=47&Fsv_TBt=8467296&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_SHANDONG-CQ&Fsv_CMSID=GD_CUCC
+#EXTINF:-1 group-title="卫视频道",康巴衛視
+https://stream1.freetv.fun/7acb1025eb98d411fe5dc519902069dda51b621f55c7b1fce3acdd50f55d6ad5.ctv
+#EXTINF:-1 group-title="卫视频道",寧夏衛視
+http://120.87.97.246:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmdhttp://120.87.97.246:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKrEoOVZkTXPRpyu8Fec9vdCdoyO018NO14G7CqFI6mAm&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715182701912&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e5edd129ab3fd&FvSeid=77fd5578ee71bb73&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=3108&Fsv_chan_hls_se_idx=25&Fsv_TBt=2287296&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_NINGXIA&Fsv_CMSID=GD_CUCC
+#EXTINF:-1 group-title="卫视频道",廈門衛視
+http://58.248.112.230:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKqGN1tBE%2F%2B5MsxIjF3XUVlNwwU2%2BP7Se%2BeLJsHpsPerh&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715183457815&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e64c4e841b5c2&FvSeid=77fd5578ee7d88ff&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18142&Fsv_chan_hls_se_idx=61&Fsv_TBt=2287232&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_XIAMEN&Fsv_CMSID=GD_CUCC
+#EXTINF:-1 group-title="卫视频道",廣東衛視
+http://120.87.97.246:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKvgbSbSCTYnboG1IAsnN%2B8SqEfgQMFPe4ummH0FzRlHZ&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715177814221&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e38ada34b4c42&FvSeid=77fd5578ee255a62&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4280&Fsv_chan_hls_se_idx=51&Fsv_TBt=8467184&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_GUANGDONG-CQ&Fsv_CMSID=GD_CUCC
+#EXTINF:-1 group-title="卫视频道",廣東新聞
+https://stream1.freetv.fun/1d912cd04d0a4150f559f58f463b518f14de96edefde8783d47507eaca47cdac.ctv
+#EXTINF:-1 group-title="卫视频道",廣東珠江
+https://stream1.freetv.fun/435ca141d5e0071d06a2314a197dfaa8721a7937a6f580e2b1f4a2ded591f3e6.ctv
+#EXTINF:-1 group-title="卫视频道",延邊衛視
+http://58.248.112.230:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKsDHE1G9dncbxrpdCy9LpiOqFDsEdX4qrobuTeLEDWHs&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715183083445&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e61d8353d2539&FvSeid=77fd5578ee77b3ef&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=16969&Fsv_chan_hls_se_idx=10&Fsv_TBt=2284640&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_YANBIAN&Fsv_CMSID=GD_CUCC
+#EXTINF:-1 group-title="卫视频道",新疆衛視
+http://58.248.112.230:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKi6FcStVNDiOP%2F2OqxiETIMcXVZrQaEXpNcm6hl5lagk&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715183048966&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e61932f7943b8&FvSeid=77fd5578ee77266d&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=16959&Fsv_chan_hls_se_idx=28&Fsv_TBt=2287296&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_XINJIANG&Fsv_CMSID=GD_CUCC
+#EXTINF:-1 group-title="卫视频道",東南衛視
+http://58.248.112.230:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKg3sVbVN1ZTQKUpnK8xcf7x%2FCQE0V52YypyihQhUfLY5&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715179246299&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e43ddc7fdc49c&FvSeid=77fd5578ee3bb97c&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18108&Fsv_chan_hls_se_idx=45&Fsv_TBt=4356280&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_DONGNAN-CQ&Fsv_CMSID=GD_CUCC
+#EXTINF:-1 group-title="卫视频道",江蘇衛視
+http://58.248.112.229:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKu%2BuH8HDFS0PtokY11nWnf4qV6vyu%2BOKjQBSSKsQUVYE&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715178500503&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e3e0a43cf17e8&FvSeid=77fd5578ee3014e1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18120&Fsv_chan_hls_se_idx=51&Fsv_TBt=8465688&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_JIANGSU-CQ&Fsv_CMSID=GD_CUCC
+#EXTINF:-1 group-title="卫视频道",江西衛視
+http://120.87.97.245:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKiFtNLUdun4aiq6hb34UOKdnmvR2PbgsfQI1rMAHU0ky&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715182357590&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e5c2c769d42ff&FvSeid=77fd5578ee6c5a9f&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=3156&Fsv_chan_hls_se_idx=1&Fsv_TBt=8478384&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_JIANGXI-CQ&Fsv_CMSID=GD_CUCC
+#EXTINF:-1 group-title="卫视频道",河北衛視
+http://120.87.97.246:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKhpKSI6s6OLBtormwyqxqXAWWbd7WiLqjR4vnvi9bRwf&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715182193047&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e5ae354947b12&FvSeid=77fd5578ee69c553&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4265&Fsv_chan_hls_se_idx=44&Fsv_TBt=8455624&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_HEBEI-CQ&Fsv_CMSID=GD_CUCC
+#EXTINF:-1 group-title="卫视频道",東方衛視
+http://27.40.16.70:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKvFI8ayEeoekFD8P08%2F7EXHQHvoSr2x4xkdtxQfHt6cg&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715178761860&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e4014f3eb28dc&FvSeid=77fd5578ee342bde&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4254&Fsv_chan_hls_se_idx=49&Fsv_TBt=8467904&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_DONGFANG-CQ&Fsv_CMSID=GD_CUCC
+#EXTINF:-1 group-title="卫视频道",江西衛視
+https://stream1.freetv.fun/b450be8e1d9d2a57365d7b9d1214f7bca13e8df7d932ac96b741173c6897812f.ctv
+#EXTINF:-1 group-title="卫视频道",河南衛視
+http://221.4.143.69:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKpdyyWmwPpo0%2BOlJpyKTryJEbtG%2Bests7yU1uk2fPQyg&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715182227040&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e5b2758477c9d&FvSeid=77fd5578ee6a4d8f&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=9841&Fsv_chan_hls_se_idx=44&Fsv_TBt=8467296&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_HENAN-CQ&Fsv_CMSID=GD_CUCC
+#EXTINF:-1 group-title="卫视频道",浙江衛視
+http://221.4.143.70:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKtr3tmmw%2BL49D6e6Yw0TfYxu1Rs%2FVoWmP1ObIwtTG9QM&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715178633727&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e3f14af0e6062&FvSeid=77fd5578ee322b51&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=9855&Fsv_chan_hls_se_idx=50&Fsv_TBt=8466712&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_ZHEJIANG-CQ&Fsv_CMSID=GD_CUCC
+#EXTINF:-1 group-title="卫视频道",海南衛視
+http://58.248.112.229:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKuHFzyLGvmSMltQzCpEgABbzTx6xqsUWMTeDo0%2FrycmR&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715182081651&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e5a049b2f5521&FvSeid=77fd5578ee68091a&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4380&Fsv_chan_hls_se_idx=20&Fsv_TBt=4357088&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_HAINAN-HQ&Fsv_CMSID=GD_CUCC
+#EXTINF:-1 group-title="卫视频道",深圳衛視
+http://27.40.16.70:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKtBPUZJQRNJB5bOiIhhUc3e2OqQ5ejG4cfAiuU8Ka%2FSr&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715178863654&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e40e08c51af02&FvSeid=77fd5578ee35c10a&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4252&Fsv_chan_hls_se_idx=48&Fsv_TBt=8467296&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_SHENZHEN-CQ&Fsv_CMSID=GD_CUCC
+#EXTINF:-1 group-title="卫视频道",深圳都市
+https://stream1.freetv.fun/757cb76c7c91c24626401bcec337d5a1d4369f0156510193b198c26d24bd9b2d.ctv
+#EXTINF:-1 group-title="卫视频道",深圳財經生活
+https://stream1.freetv.fun/176ad6ff7b513a917c3c8edb76e340c47b0decb84db829bad8bf0dbb1c9f15d1.m3u8
+#EXTINF:-1 group-title="卫视频道",湖北衛視
+http://58.248.112.230:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKrg071ENwYSAZcO2GiGH9lI2lGOSb3j5CN1iPWx2HIq9&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715182267095&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e5b7775947e97&FvSeid=77fd5578ee6aec3c&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18104&Fsv_chan_hls_se_idx=43&Fsv_TBt=8467728&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_HUBEI-CQ&Fsv_CMSID=GD_CUCC
+#EXTINF:-1 group-title="卫视频道",湖南衛視
+http://27.40.16.69:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKn6FShWeUnbW0LuGMY6sAL8C%2BfCULxR%2FAC5HDljJd9K3&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715178682174&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e3f7588ed2416&FvSeid=77fd5578ee32eac5&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4255&Fsv_chan_hls_se_idx=50&Fsv_TBt=8472328&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_HUNAN-CQ&Fsv_CMSID=GD_CUCC
+#EXTINF:-1 group-title="卫视频道",甘肅衛視
+http://120.87.97.245:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKu8%2BHz6yr4RTNfYc5PxP2EiHpodLfG71p5gfWMpex5u%2B&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715179903515&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e49004ccec872&FvSeid=77fd5578ee460191&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=1041&Fsv_chan_hls_se_idx=19&Fsv_TBt=4355528&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_GANSU-HQ&Fsv_CMSID=GD_CUCC
+#EXTINF:-1 group-title="卫视频道",貴州衛視
+http://58.248.112.229:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKms5lc8HFQLTI9VPV%2F62TTvoUIVS7GXMM5XnqjLoqMGn&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715180048627&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e4a2287e30f84&FvSeid=77fd5578ee48469c&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18107&Fsv_chan_hls_se_idx=45&Fsv_TBt=8466792&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_GUIZHOU-CQ&Fsv_CMSID=GD_CUCC
+#EXTINF:-1 group-title="卫视频道",遼寧衛視
+http://27.40.16.69:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKkRqeVO49Tnq6K%2BWCd0TWOv%2FGe21maMcczv29zbhzU5i&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715178917390&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e414c0b1d923b&FvSeid=77fd5578ee3699e0&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4251&Fsv_chan_hls_se_idx=48&Fsv_TBt=8467984&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_LIAONING-CQ&Fsv_CMSID=GD_CUCC
+#EXTINF:-1 group-title="卫视频道",黑龍江衛視
+http://27.40.16.70:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKoGO4sBlEXR27vS0rpENy%2BC90wzLcBzAblH7tEMBexot&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715179089553&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e42a45c04fbd0&FvSeid=77fd5578ee3948ee&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4247&Fsv_chan_hls_se_idx=46&Fsv_TBt=8467816&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_HEILONGJIANG-CQ&Fsv_CMSID=GD_CUCC
+#EXTINF:-1 group-title="卫视频道",重慶衛視
+http://120.87.97.246:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKi5XA1hsd3RREgysPiqqJeQsy8aM7T7T6yS2xeSLQCNX&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715183188119&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e62a9bf6c0a15&FvSeid=77fd5578ee79524c&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4259&Fsv_chan_hls_se_idx=41&Fsv_TBt=8466936&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CHONGQING-CQ&Fsv_CMSID=GD_CUCC
+#EXTINF:-1 group-title="卫视频道",陝西衛視
+http://120.87.97.245:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKvTKKoI90D6zih8EBEVuISOoNd58%2BpeLvDCVqfR%2Bz2zC&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715182821604&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e5fcc899b5974&FvSeid=77fd5578ee739987&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=3141&Fsv_chan_hls_se_idx=28&Fsv_TBt=4357096&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_SHANXI-HQ&Fsv_CMSID=GD_CUCC
+#EXTINF:-1 group-title="卫视频道",雲南衛視
+http://120.87.97.245:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKsw5gpVWcejjhE1KHstDaBG5txDdXzjGOGT72Bx9wXfe&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715183112723&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e6212b9f22693&FvSeid=77fd5578ee78247b&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4260&Fsv_chan_hls_se_idx=42&Fsv_TBt=4356528&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_YUNNAN-CQ&Fsv_CMSID=GD_CUCC
+#EXTINF:-1 group-title="卫视频道",青海衛視
+http://58.248.112.229:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKtPONYs6QtaHPseT96s%2FID0CJK8A3PYAgbxQETLpGrgj&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715183368940&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e641325baf208&FvSeid=77fd5578ee7c278e&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18141&Fsv_chan_hls_se_idx=61&Fsv_TBt=2287408&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_QINGHAI&Fsv_CMSID=GD_CUCC
+#EXTINF:-1 group-title="卫视频道",西藏衛視
+http://120.87.97.246:8114/GD.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKmxx5kvhKVtAPfH0qKl14uc0OofWCn8X%2F8yyIACfIeA3&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715183009371&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e61441141c1fd&FvSeid=77fd5578ee768a7f&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=3143&Fsv_chan_hls_se_idx=28&Fsv_TBt=2287296&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_XIZANG&Fsv_CMSID=GD_CUCC
+#EXTINF:-1 group-title="卫视频道",荊州新聞
+https://stream1.freetv.fun/08eec89b27feaf59f71ad04d237ef33a9d4aa16af6280c537b6768b9007163e3.m3u8
+#EXTINF:-1 group-title="卫视频道",荊州新聞綜合
+https://stream1.freetv.fun/fec6f84163995a26addc2f96b85410ac26cb8faec86be555742636476b5a136e.m3u8
+#EXTINF:-1 group-title="卫视频道",荊州壟上臺
+https://stream1.freetv.fun/3aab400214d70d9b22489ec74f4ffe5e67271689579e0de9f27dd245599d1393.m3u8
+#EXTINF:-1 group-title="卫视频道",安康综合1
+https://3074201108.cloudvdn.com/a.m3u8?domain=hls-sxak.sobeylive.com&player=8HEAAOLPuywU894X&secondToken=secondToken%3AOCnMSQyKY7NR6i5pFQkifvS7qBE&streamid=xjhsyapp2019%3Axjhsyapp2019%2Fzhpdhd&v3=1
+#EXTINF:-1 group-title="卫视频道",安康民生2
+https://3074201111.cloudvdn.com/a.m3u8?domain=hls-sxak.sobeylive.com&player=GeMAAGNTaV42894X&secondToken=secondToken%3AC-C-Bs7nJHw47tvOulyIV9KybQQ&streamid=xjhsyapp2019%3Axjhsyapp2019%2Fggpdhd&v3=1
+#EXTINF:-1 group-title="卫视频道",安康教育3
+https://3074201111.cloudvdn.com/a.m3u8?domain=hls-sxak.sobeylive.com&player=GeMAAJZQ9jZD894X&secondToken=secondToken%3AgM4LbBycLdABAXrN8qPWhHycqHY&streamid=xjhsyapp2019%3Axjhsyapp2019%2Fjypdhd&v3=1
+#EXTINF:-1 group-title="其他频道",Desire
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="其他频道",Brazzers
+http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="其他频道",Dorcel
+http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="其他频道",Eroxxx
+http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="其他频道",Extasy
+http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="其他频道",Playboy
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-1 group-title="其他频道",Erox HD
+http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+#EXTINF:-1 group-title="其他频道",麻豆傳媒001
+https://video2.51daao.com/btt1/2021/04/20210421/vTcVOAWe/index.m3u8
+#EXTINF:-1 group-title="其他频道",麻豆傳媒001
+https://video2.51daao.com/btt1/2021/04/20210421/uerOlDXv/index.m3u8
+#EXTINF:-1 group-title="其他频道",麻豆傳媒001
+https://video2.51daao.com/btt1/2021/04/20210421/Q6vpCHnh/index.m3u8
+#EXTINF:-1 group-title="其他频道",麻豆傳媒001
+https://video2.51daao.com/btt1/2021/04/20210419/F98YDzuz/index.m3u8
+#EXTINF:-1 group-title="其他频道",麻豆傳媒001
+https://video2.51daao.com/btt1/2021/04/20210419/JcL8YXTn/index.m3u8
+#EXTINF:-1 group-title="其他频道",麻豆傳媒001
+https://video2.51daao.com/btt1/2021/04/20210419/OnqbvJqO/index.m3u8
+#EXTINF:-1 group-title="其他频道",麻豆傳媒001
+https://video2.51daao.com/btt1/2021/04/20210419/1DhP5Aie/index.m3u8
+#EXTINF:-1 group-title="其他频道",麻豆傳媒001
+https://video2.51daao.com/btt1/2021/04/20210419/O5V1edwH/index.m3u8
+#EXTINF:-1 group-title="其他频道",麻豆傳媒001
+https://video2.51daao.com/btt1/2021/04/20210419/z6S4PgRO/index.m3u8
+#EXTINF:-1 group-title="其他频道",麻豆傳媒001
+https://video2.51daao.com/btt1/2021/04/20210419/zrgSC5Db/index.m3u8
+#EXTINF:-1 group-title="其他频道",麻豆傳媒001
+https://video2.51daao.com/btt1/2021/04/20210417/CmLKxrbu/index.m3u8
+#EXTINF:-1 group-title="其他频道",麻豆傳媒001
+https://video2.51daao.com/btt1/2021/04/20210417/sswlw8wE/index.m3u8
+#EXTINF:-1 group-title="其他频道",麻豆傳媒001
+https://video2.51daao.com/btt1/2021/04/20210417/966gCzQp/index.m3u8
+#EXTINF:-1 group-title="其他频道",麻豆傳媒001
+https://video2.51daao.com/btt1/2021/04/20210417/Hj3O7tv4/index.m3u8
+#EXTINF:-1 group-title="其他频道",麻豆傳媒001
+https://video2.51daao.com/btt1/2021/04/20210417/NmQOo1Dd/index.m3u8
+#EXTINF:-1 group-title="其他频道",麻豆傳媒001
+https://video2.51daao.com/btt1/2021/04/20210417/z3sYNvdV/index.m3u8
+#EXTINF:-1 group-title="其他频道",麻豆傳媒001
+https://video2.51daao.com/btt1/2021/04/20210415/Ffne1i1V/index.m3u8
+#EXTINF:-1 group-title="其他频道",麻豆傳媒001
+https://video2.51daao.com/btt1/2021/04/20210415/Mwip4Wj4/index.m3u8
+#EXTINF:-1 group-title="其他频道",麻豆傳媒001
+https://video2.51daao.com/btt1/2021/04/20210415/zrEGtWys/index.m3u8
+#EXTINF:-1 group-title="其他频道",麻豆傳媒001
+https://video2.51daao.com/btt1/2021/04/20210415/n5PwN6d0/index.m3u8
+#EXTINF:-1 group-title="其他频道",麻豆傳媒001
+https://video2.51daao.com/btt1/2021/04/20210415/n5PwN6d0/index.m3u8
+#EXTINF:-1 group-title="其他频道",麻豆傳媒001
+https://video2.51daao.com/btt1/2021/04/20210415/c7lWABAH/index.m3u8
+#EXTINF:-1 group-title="其他频道",麻豆傳媒001
+https://video2.51daao.com/btt1/2021/04/20210415/IDKOnuvK/index.m3u8
+#EXTINF:-1 group-title="其他频道",麻豆傳媒001
+https://video2.51daao.com/btt1/2021/04/20210415/PjfN20SE/index.m3u8
+#EXTINF:-1 group-title="其他频道",麻豆傳媒001
+https://video2.51daao.com/btt1/2021/04/20210415/Rg6SYe40/index.m3u8
+#EXTINF:-1 group-title="其他频道",麻豆傳媒001
+https://video2.51daao.com/btt1/2021/04/20210415/GI29Q4JK/index.m3u8
+#EXTINF:-1 group-title="其他频道",麻豆傳媒001
+https://video2.51daao.com/btt1/2021/04/20210413/VwjW8jk9/index.m3u8
+#EXTINF:-1 group-title="其他频道",麻豆傳媒001
+https://video2.51daao.com/btt1/2021/04/20210413/lVjoNIkV/index.m3u8
+#EXTINF:-1 group-title="其他频道",麻豆傳媒001
+https://video2.51daao.com/btt1/2021/04/20210413/sDpOc5uu/index.m3u8
+#EXTINF:-1 group-title="其他频道",麻豆傳媒001
+https://video2.51daao.com/btt1/2021/04/20210417/OKTFlDQX/index.m3u8
+#EXTINF:-1 group-title="",
+
+#EXTINF:-1 group-title="",
+
+#EXTINF:-1 group-title="",
+
+#EXTINF:-1 group-title="",
+
+#EXTINF:-1 group-title="",
+
+#EXTINF:-1 group-title="",
+
+#EXTINF:-1 group-title="",
+
+#EXTINF:-1 group-title="",
+
