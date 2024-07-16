@@ -111,6 +111,8 @@ https://z02.ubtvfans.com/live/rx1/97/5eb4dbe359d9f54e5c3679edaa13ec99/index.m3u8
 http://45.159.74.14:80/DiscoveryChannel/index.m3u8
 #EXTINF:-1 group-title="台湾频道",TVBS56台 HD
 https://yeslivetv.scdn.eu.org/live/4gtv-4gtv073.m3u8?token=qoIWZyi61VkPDjSZwq4BBQ&expires=1721147657
+#EXTINF:-1 group-title="台湾频道",TVBS56台 HD/少康戰情室 TVBS Situation Room
+https://ythls-v3.onrender.com/channel/UCLZBXiS9ZrIXgKBs_SMfGBQ.m3u8
 #EXTINF:-1 group-title="台湾频道",中天新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 #EXTINF:-1 group-title="台湾频道",三立新聞
