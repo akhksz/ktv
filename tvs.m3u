@@ -1,54 +1,50 @@
 ﻿#EXTM3U8
-#EXTINF:-1 group-title="国际频道",CNN INternational
+#EXTINF:-1 group-title="国际频道",CNN INternational（美国）
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际频道",CNN USA (720p)
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
-#EXTINF:-1 group-title="国际频道",BBC News (720p)
+#EXTINF:-1 group-title="国际频道",BBC News (英国)
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="国际频道",CGTN
+#EXTINF:-1 group-title="国际频道",CGTN （中国）
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
-#EXTINF:-1 group-title="国际频道",Russia Today 
+#EXTINF:-1 group-title="国际频道",Russia Today （俄罗斯）
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 group-title="国际频道",NHK World Japan
+#EXTINF:-1 group-title="国际频道",NHK World （日本）
 https://cdn.nhkworld.jp/www11/nhkworld-tv/domestic/2003459/live.m3u8
-#EXTINF:-1 group-title="国际频道",CNA
+#EXTINF:-1 group-title="国际频道",CNA （新加坡）
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 group-title="国际频道",Sky News Now (AU)
+#EXTINF:-1 group-title="国际频道",Sky News Now (天空新闻 英国)
 https://i.mjh.nz/sky-news-now.m3u8
-#EXTINF:-1 group-title="国际频道",Africa news
+#EXTINF:-1 group-title="国际频道",Africa news （非洲新闻）
 https://ythls.armelin.one/channel/UC1_E8NeF5QHY2dtdLRBCCLA.m3u8
-#EXTINF:-1 group-title="国际频道",EURO news
+#EXTINF:-1 group-title="国际频道",EURO news （欧洲新闻）
 https://rakuten-euronews-1-nl.samsung.wurl.tv/92a5d583c1409319f9c31e07a958679f.m3u8
-#EXTINF:-1 group-title="国际频道",France 24
+#EXTINF:-1 group-title="国际频道",France 24 （法国之声）
 https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
-#EXTINF:-1 group-title="国际频道",DW
+#EXTINF:-1 group-title="国际频道",DW （德国之声）
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 group-title="国际频道",Al Jazeera
+#EXTINF:-1 group-title="国际频道",Al Jazeera （半岛电视台）
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 group-title="国际频道",TRT World
+#EXTINF:-1 group-title="国际频道",TRT World （土耳其）
 https://ythls.armelin.one/channel/UC7fWeaHhqgM4Ry-RMpM2YYw.m3u8
-#EXTINF:-1 group-title="国际频道",WION
+#EXTINF:-1 group-title="国际频道",WION （印度）
 https://ythls.armelin.one/channel/UC_gUM8rL-Lrg6O3adPW9K1g.m3u8
-#EXTINF:-1 group-title="国际频道",CBC News Network
+#EXTINF:-1 group-title="国际频道",CBC News Network（加拿大）
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
-#EXTINF:-1 group-title="国际频道",The Guardian
+#EXTINF:-1 group-title="国际频道",The Guardian （英国）
 https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际频道",ABC News (AU)
-https://ythls.armelin.one/channel/UCVgO39Bk5sMo66-6o6Spn6Q.m3u8
-#EXTINF:-1 group-title="国际频道",FOX News
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际频道",ABC News Live
-https://lnc-abc-news.tubi.video/index.m3u8
-#EXTINF:-1 group-title="国际频道",CBS News
-https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
-#EXTINF:-1 group-title="国际频道",NBC News NOW
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
-#EXTINF:-1 group-title="国际频道",Channels 24
-https://ythls.armelin.one/channel/UCEXGDNclvmg6RW0vipJYsTQ.m3u8
-#EXTINF:-1 group-title="国际频道",NBC News NOW
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
-#EXTINF:-1 group-title="国际频道",ABC News
+#EXTINF:-1 group-title="国际频道",ABC News (AU 澳大利亚)
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 group-title="国际频道",FOX News （美国）
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际频道",abc news live（US美国） Live
+https://lnc-abc-news.tubi.video/index.m3u8
+#EXTINF:-1 group-title="国际频道",CBS News (美国)
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1 group-title="国际频道",NBC News NOW (美国)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
+#EXTINF:-1 group-title="国际频道",NBC News NOW (美国)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
+#EXTINF:-1 group-title="国际频道",NASA TV (国际空间站频道 美国)
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 group-title="国际频道",HBO HD
 https://z02.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
 #EXTINF:-1 group-title="国际频道",HOB ASIA
