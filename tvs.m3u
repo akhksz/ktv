@@ -92,13 +92,13 @@ http://37.27.111.214:8080/live/23/hls.m3u8
 #EXTINF:-1 group-title="台湾频道",中天新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 #EXTINF:-1 group-title="台湾频道",三立新聞
-https://cdi.ofiii.com/ocean/video/playlist/VMZfsV3Dnj4/1.m3u8
+https://z02.ubtvfans.com/live/rx2/43/a2a42f6d385474b87e182c306a9c370d/index.m3u8
 #EXTINF:-1 group-title="台湾频道",臺視新聞臺
-https://stream.freetv.fun/3e712c7facb3dbae8eebf29e560978e03f3711827b09e8a4f2ae7f346673716f.ctv
+https://cdi.ofiii.com/ocean/video/playlist/6KEAyL6t93U/4gtv-4gtv051-avc1_2000000=3-mp4a_134000_zho=6.m3u8
 #EXTINF:-1 group-title="台湾频道",東森新聞HD
 http://37.27.111.214:8080/live/20/hls.m3u8
-#EXTINF:-1 group-title="台湾频道",非凡新聞HD
-https://stream.freetv.fun/a46f1155e768a1d44ec78e6a01acafe3f2f83650f9352db8e8eb84170d7535d7.ctv
+#EXTINF:-1 group-title="台湾频道",寰宇新聞HD
+https://cdi.ofiii.com/ocean/video/playlist/0N5AUUyWbGI/litv-longturn14-avc1_800000=4-mp4a_166000_zho=6.m3u8
 #EXTINF:-1 group-title="台湾频道",民視新聞HD
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 #EXTINF:-1 group-title="台湾频道",中視新聞
