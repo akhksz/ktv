@@ -92,7 +92,7 @@ http://37.27.111.214:8080/live/23/hls.m3u8
 #EXTINF:-1 group-title="台湾频道",中天新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 #EXTINF:-1 group-title="台湾频道",三立新聞
-https://z02.ubtvfans.com/live/rx2/43/a2a42f6d385474b87e182c306a9c370d/index.m3u8
+https://cdi.ofiii.com/ocean/video/playlist/VMZfsV3Dnj4/1.m3u8
 #EXTINF:-1 group-title="台湾频道",臺視新聞臺
 https://stream.freetv.fun/3e712c7facb3dbae8eebf29e560978e03f3711827b09e8a4f2ae7f346673716f.ctv
 #EXTINF:-1 group-title="台湾频道",東森新聞HD
