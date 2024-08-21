@@ -114,7 +114,7 @@ http://37.27.111.214:8080/live/85/hls.m3u8
 #EXTINF:-1 group-title="台湾频道",TVBS56台 HD
 http://37.27.111.214:8080/live/23/hls.m3u8
 #EXTINF:-1 group-title="台湾频道",中天新闻
-https://cdi.ofiii.com/ocean/video/playlist/SWOAzVS6XHk/4gtv-4gtv009-avc1_3000000=8-mp4a_136000_zho=7.m3u8
+http://211.72.65.236:8541/.m3u8
 #EXTINF:-1 group-title="台湾频道",三立新聞
 https://cdi.ofiii.com/ocean/video/playlist/g9WuPGgG2Qs/2.m3u8
 #EXTINF:-1 group-title="台湾频道",臺視新聞臺
