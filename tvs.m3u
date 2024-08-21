@@ -122,7 +122,7 @@ http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 group-title="台湾频道",東森新聞HD
 http://37.27.111.214:8080/live/20/hls.m3u8
 #EXTINF:-1 group-title="台湾频道",寰宇新聞HD
-https://cdi.ofiii.com/ocean/video/playlist/qXOlE8RIdss/litv-longturn14-avc1_2000000=3-mp4a_166000_zho=6.m3u8
+http://37.27.111.214:8080/live/63/hls.m3u8
 #EXTINF:-1 group-title="台湾频道",民視新聞HD
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 #EXTINF:-1 group-title="台湾频道",华视CTS HD
