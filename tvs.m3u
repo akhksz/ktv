@@ -380,9 +380,9 @@ http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 #EXTINF:-1 group-title="港澳频道",RTHK31
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
 #EXTINF:-1 group-title="港澳频道",HOY资讯台
-https://z02.ubtvfans.com/live/rx1/395/2afff7b9574d72ee839084fcdde78ff7/index.m3u8
+https://ch78-live-stream.hoy.tv/ch78/index-fhd.m3u8
 #EXTINF:-1 group-title="港澳频道",HOY 77
-https://z02.ubtvfans.com/live/rx1/401/2ab2599cd56cdf8db12d3cbd9fc24006/index.m3u8
+https://ch77-live-stream.hoy.tv/ch77/index-fhd.m3u8
 #EXTINF:-1 group-title="港澳频道",Viu TV
 https://z02.ubtvfans.com/live/rx1/72/45683d738c0c0f8cc659cb4126f5dad3/index.m3u8
 #EXTINF:-1 group-title="港澳频道",TVB+无线新闻
