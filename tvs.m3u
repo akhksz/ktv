@@ -1,12 +1,4 @@
-﻿#EXTM3U8
-#EXTINF:-1 group-title="国际频道",CCTV世界地理（中国）
-http://123.184.28.33/hlslive-tx-cdn.ysp.cctv.cn/008/2024172003.m3u8
-#EXTINF:-1 group-title="国际频道",National Geographic Wild（美国）
-http://50.7.137.106:8080/NAT_GEO_WILD/index.m3u8?token=test
-#EXTINF:-1 group-title="国际频道",BBC EARTH
-https://z02.ubtvfans.com/live/rx1/97/5eb4dbe359d9f54e5c3679edaa13ec99/index.m3u8
-#EXTINF:-1 group-title="国际频道",Adventure Earth
-https://autentic-adventure-earth-1-fi.lg.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="国际频道",Discovery Channel
 http://45.159.74.14:80/DiscoveryChannel/index.m3u8
 #EXTINF:-1 group-title="国际频道",CNN INternational（美国）
@@ -99,16 +91,6 @@ http://37.27.111.214:8080/live/10/hls.m3u8
 http://37.27.111.214:8080/live/16/hls.m3u8
 #EXTINF:-1 group-title="台湾频道",龙华电影 HD
 http://37.27.111.214:8080/live/19/hls.m3u8
-#EXTINF:-1 group-title="台湾频道",HISTORY HD
-http://37.27.111.214:8080/live/27/hls.m3u8
-#EXTINF:-1 group-title="台湾频道",MTV HD
-http://37.27.111.214:8080/live/25/hls.m3u8
-#EXTINF:-1 group-title="台湾频道",HITS HD
-http://37.27.111.214:8080/live/28/hls.m3u8
-#EXTINF:-1 group-title="台湾频道",CRIME+ 
-http://37.27.111.214:8080/live/29/hls.m3u8
-#EXTINF:-1 group-title="台湾频道",CinemaWorld 
-http://37.27.111.214:8080/live/30/hls.m3u8
 #EXTINF:-1 group-title="台湾频道",ELTA生活旅游
 http://37.27.111.214:8080/live/85/hls.m3u8
 #EXTINF:-1 group-title="台湾频道",TVBS56台 HD
