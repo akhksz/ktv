@@ -85,26 +85,32 @@ https://stream.freetv.fun/0d3c802f93af5d787c8857fe87814eaf3ae85a51294b5f08fc219c
 https://stream.freetv.fun/890563baba3628a4096548c973405f5b31de969d8bbe666d6e196540348941dd.ctv
 #EXTINF:-1 group-title="国际频道",Smithsonian Channel
 https://stream.freetv.fun/b1553b81be58e6846203539f162b4b40c0cc53697d897d9388b42fa7f43f8cae.ctv
-#EXTINF:-1 group-title="台湾频道",亚洲旅游台 HD
-http://37.27.111.214:8080/live/10/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",BBC News 亚太 (720p)
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+#EXTINF:-1 group-title="台湾频道",Bloomberg 亚太 (720p)
+https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 group-title="台湾频道",博斯网球 HD
 http://37.27.111.214:8080/live/16/hls.m3u8
 #EXTINF:-1 group-title="台湾频道",龙华电影 HD
 http://37.27.111.214:8080/live/19/hls.m3u8
+#EXTINF:-1 group-title="台湾频道",亚洲旅游台 HD
+http://37.27.111.214:8080/live/10/hls.m3u8
 #EXTINF:-1 group-title="台湾频道",ELTA生活旅游
 http://37.27.111.214:8080/live/85/hls.m3u8
-#EXTINF:-1 group-title="台湾频道",TVBS56台 HD
+#EXTINF:-1 group-title="台湾频道",凤凰资讯HD
+https://ythls.armelin.one/channel/UCd9dPMYgV9-IQaZG491TaRw.m3u8
+#EXTINF:-1 group-title="台湾频道",TVBS HD 56台
 http://37.27.111.214:8080/live/23/hls.m3u8
 #EXTINF:-1 group-title="台湾频道",中天新闻
 http://211.72.65.236:8541/.m3u8
-#EXTINF:-1 group-title="台湾频道",三立新聞
-https://cdi.ofiii.com/ocean/video/playlist/g9WuPGgG2Qs/2.m3u8
+#EXTINF:-1 group-title="台湾频道",三立新聞iNews
+https://ythls.armelin.one/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
 #EXTINF:-1 group-title="台湾频道",臺視新聞臺
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 group-title="台湾频道",東森新聞HD
 http://37.27.111.214:8080/live/20/hls.m3u8
 #EXTINF:-1 group-title="台湾频道",寰宇新聞HD
-http://37.27.111.214:8080/live/63/hls.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 #EXTINF:-1 group-title="台湾频道",民視新聞HD
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 #EXTINF:-1 group-title="台湾频道",华视CTS HD
